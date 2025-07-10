@@ -4,7 +4,7 @@ Je travaille actuellement sur plusieurs projets en langage **C**, dans le but d'
 
 ## Dépôt principaux
 
-[Cursus_C complet](http://github.com/sislash/Cours-complet-en-C-piscine-42-amelioree-TDD-GDB-projet-systeme-scripts-de-test-Manual)
+[Cursus_C complet](https://github.com/sislash/-Cours-complet-en-C-piscine-42-amelioree-TDD-GDB-projets-systeme-scripts-de-test-Manuel)
 Un parcours personnel en C : TDD, mémoire, GDB, projets système, scripts...
 
 [bloc01](https://github.com/sislash/bloc01)
