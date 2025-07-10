@@ -1,16 +1,23 @@
-## Hi there 👋
+## Bienvenue
 
-<!--
-**sislash/sislash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je travaille actuellement sur plusieurs projets en langage **C**, dans le but d'apprendre, progresser, et structurer ma pratique.
 
-Here are some ideas to get you started:
+## Dépôt principaux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Cursus_C complet](http://github.com/sislash/Cours-complet-en-C-piscine-42-amelioree-TDD-GDB-projet-systeme-scripts-de-test-Manual)
+Un parcours personnel en C : TDD, mémoire, GDB, projets système, scripts...
+
+[bloc01](https://github.com/sislash/bloc01)
+Bloc 01 de ma piscine personnel
+
+[SoftCity](https://github.com/sislash/softcity)
+Une ville symbolique codée en C, Représentation abstraite d'un système complet en ASCII. Projet en cours.
+
+## Objectif
+
+Faire les choses bien.
+Coder proprement.
+Comprendre chaque détail.
+Avancer pas à pas.
+
+Merci de votre visite.
