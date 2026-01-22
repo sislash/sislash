@@ -16,4 +16,7 @@ Une ville symbolique codée en C, Représentation abstraite d'un système comple
 [xpmod_V1](https://github.com/sislash/xpmod_V1)
 mod_consol pour affichage sur tablette des données aeronautique.
 
+[tracker_entropia](https://github.com/sislash/tracker_entropia)
+tracker pour la chasse sur entropia universe.
+
 Merci de votre visite.
