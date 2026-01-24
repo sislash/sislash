@@ -4,8 +4,8 @@ Je travaille actuellement sur plusieurs projets en langage **C**, dans le but d'
 
 ## Dépôt principaux
 
-[Cursus_C complet](https://github.com/sislash/-Cours-complet-en-C-piscine-42-amelioree-TDD-GDB-projets-systeme-scripts-de-test-Manuel)
-Un parcours personnel en C : Exercices, TDD, mémoire, GDB, projets système, scripts...
+[tracker_entropia](https://github.com/sislash/tracker_entropia)
+tracker pour la chasse sur entropia universe.
 
 [bloc01](https://github.com/sislash/bloc01)
 Bloc 01 de ma piscine personnel 
@@ -16,7 +16,7 @@ Une ville symbolique codée en C, Représentation abstraite d'un système comple
 [xpmod_V1](https://github.com/sislash/xpmod_V1)
 mod_consol pour affichage sur tablette des données aeronautique.
 
-[tracker_entropia](https://github.com/sislash/tracker_entropia)
-tracker pour la chasse sur entropia universe.
+[Cursus_C complet](https://github.com/sislash/-Cours-complet-en-C-piscine-42-amelioree-TDD-GDB-projets-systeme-scripts-de-test-Manuel)
+Un parcours personnel en C : Exercices, TDD, mémoire, GDB, projets système, scripts...
 
 Merci de votre visite.
