@@ -4,7 +4,7 @@ Je travaille actuellement sur plusieurs projets en langage **C**, dans le but d'
 
 ## Dépôt principaux
 
-[tracker_entropia](https://github.com/sislash/tracker_entropia)
+[tracker_entropia](https://github.com/sislash/tracker_loot)
 tracker pour la chasse sur entropia universe.
 
 [bloc01](https://github.com/sislash/bloc01)
